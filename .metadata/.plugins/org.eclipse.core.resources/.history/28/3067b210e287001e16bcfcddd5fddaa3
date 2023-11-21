@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_EJFKoIfiEe680KKDddmHkg" name="projetDecisionnel" id="_1PI64IfhEe680KKDddmHkg" label="projetDecisionnel" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://127.0.01:5432/projetDecisionnel?" dbVersionString="V9_X" Port="5432" Username="postgres" Password="enc:system.encryption.key.v1:jVM1Laouf6NJcVAdHaVCkTjpBS3sp620QFKoZ/4Uddc=" ServerName="127.0.01" DatasourceName="" FileFieldName="" SID="projetDecisionnel" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="public">
+  <taggedValue xmi:id="_EJKDIIfiEe680KKDddmHkg" tag="Is Conn Need Reload" value="true"/>
+  <parameters xmi:id="_EJKDIYfiEe680KKDddmHkg" key="CONN_PARA_KEY_USERNAME" value="postgres"/>
+</TalendMetadata:DatabaseConnection>
